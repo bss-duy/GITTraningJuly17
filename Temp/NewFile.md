@@ -1,7 +1,7 @@
 # GITTraningJuly17
-NGuyen Bao Duy
+Nguyen Bao Duy
 Oct 2nd 1992
 
 
 
-JUly 18 2017
+July 18 2017
